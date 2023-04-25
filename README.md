@@ -56,4 +56,4 @@
 
 ## **라이선스**
 
-이 프로젝트는 ****[MIT 라이선스](https://opensource.org/licenses/MIT)****에 따라 라이선스가 부여됩니다.
+이 프로젝트는 **[MIT 라이선스](https://opensource.org/licenses/MIT)**에 따라 라이선스가 부여됩니다.
